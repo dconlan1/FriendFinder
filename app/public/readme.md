@@ -24,4 +24,14 @@ I used the following techologies to create the app
 
 here is the home page: 
 
+[home](https://i.imgur.com/AYfC5Z4.png)
 
+here is the survey page:
+
+[survey](https://i.imgur.com/zhMWa8w.png)
+
+here is the result:
+
+[result](https://i.imgur.com/lspbl1w.png)
+
+### I hope you enjoy
