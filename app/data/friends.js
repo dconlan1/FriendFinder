@@ -12,6 +12,6 @@ module.exports = [
 {
     name: "Akhal - Teke",
     photo: "https://www.petworlds.net/wp-content/uploads/2018/04/akhal-teke-images-850x550.jpg",
-    scores: [1,1,3,1,1,1,2,3,4,5],
+    scores: [1,1,3,1,5,5,5,5,5,5],
 }
 ]
